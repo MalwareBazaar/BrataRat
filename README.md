@@ -134,7 +134,7 @@ Brata Rat has a number of features that allow the user to control various aspect
 
 
 
-- [x]User-friendly panel: Brata Rat has a user-friendly panel that allows the user to easily access and control the various features of the software.
+- [x] User-friendly panel: Brata Rat has a user-friendly panel that allows the user to easily access and control the various features of the software.
 
 
 
@@ -172,4 +172,4 @@ Brata Rat has a number of features that allow the user to control various aspect
 
 
 
-##It is important to note that the use of software like Brata Rat may be illegal and unethical, as it can be used to invade the privacy and security of others. It is essential to respect the rights and boundaries of others and to use such software responsibly and with caution.
+#It is important to note that the use of software like Brata Rat may be illegal and unethical, as it can be used to invade the privacy and security of others. It is essential to respect the rights and boundaries of others and to use such software responsibly and with caution.
