@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/MalwareBazaar"><img title="Github" src="https://img.shields.io/badge/MalwareBazaar-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/channel/MalwareBazaar/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MalwareBazaar-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://youtube.com/channel/UCAbQQzLDXD3Y3ATMwmAIb3w"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MalwareBazaar-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
 
