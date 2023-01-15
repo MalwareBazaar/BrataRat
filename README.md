@@ -1,3 +1,4 @@
+![image](https://0xploit.com/uploads/1673570468.png)
 </p>
 <p align="center">
 <a href="https://0xploit.com"><img title="Made in Pakistan" src="https://img.shields.io/badge/Tool-BrataRat-green.svg"></a>
@@ -18,11 +19,12 @@
 <a href="https://github.com/MalwareBazaar"><img title="Watching" src="https://img.shields.io/github/watchers/MalwareBazaar/BrataRat?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/MalwareBazaar"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
+
 **Brata Rat is a software program that allows for the remote control of Android devices. It is designed to be fully undetectable and persistent, meaning that it can operate without being detected by the user and it will continue to run even if the device is restarted. The software's botnet also supports iOS versions 15.4.1 and below, as well as Android version 13 and below.**
 
 
 
-Brata Rat has a number of features that allow the user to control various aspects of the targeted device. Some of these features include:
+# Brata Rat has a number of features that allow the user to control various aspects of the targeted device. Some of these features include:
 
 
 
