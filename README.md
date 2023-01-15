@@ -1,4 +1,4 @@
-Brata Rat is a software program that allows for the remote control of Android devices. It is designed to be fully undetectable and persistent, meaning that it can operate without being detected by the user and it will continue to run even if the device is restarted. The software's botnet also supports iOS versions 15.4.1 and below, as well as Android version 13 and below.
+**Brata Rat is a software program that allows for the remote control of Android devices. It is designed to be fully undetectable and persistent, meaning that it can operate without being detected by the user and it will continue to run even if the device is restarted. The software's botnet also supports iOS versions 15.4.1 and below, as well as Android version 13 and below.**
 
 
 
@@ -172,4 +172,4 @@ Brata Rat has a number of features that allow the user to control various aspect
 
 
 
-#It is important to note that the use of software like Brata Rat may be illegal and unethical, as it can be used to invade the privacy and security of others. It is essential to respect the rights and boundaries of others and to use such software responsibly and with caution.
+**It is important to note that the use of software like Brata Rat may be illegal and unethical, as it can be used to invade the privacy and security of others. It is essential to respect the rights and boundaries of others and to use such software responsibly and with caution.**
