@@ -1,3 +1,23 @@
+</p>
+<p align="center">
+<a href="https://0xploit.com"><img title="Made in Pakistan" src="https://img.shields.io/badge/Tool-BrataRat-green.svg"></a>
+<a href="https://0xploit.com"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://0xploit.com"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
+
+</p>
+<p align="center">
+<a href="https://github.com/MalwareBazaar"><img title="Github" src="https://img.shields.io/badge/MalwareBazaar-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/channel/MalwareBazaar/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MalwareBazaar-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+<p align="center">
+
+<a href="https://github.com/MalwareBazaar"><img title="Followers" src="https://img.shields.io/github/followers/MalwareBazaar?color=blue&style=flat-square"></a>
+<a href="https://github.com/MalwareBazaar"><img title="Stars" src="https://img.shields.io/github/stars/MalwareBazaar/BrataRat?color=red&style=flat-square"></a>
+<a href="https://github.com/MalwareBazaar"><img title="Forks" src="https://img.shields.io/github/forks/MalwareBazaar/BrataRat?color=red&style=flat-square"></a>
+<a href="https://github.com/MalwareBazaar"><img title="Watching" src="https://img.shields.io/github/watchers/MalwareBazaar/BrataRat?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/MalwareBazaar"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+</p>
 **Brata Rat is a software program that allows for the remote control of Android devices. It is designed to be fully undetectable and persistent, meaning that it can operate without being detected by the user and it will continue to run even if the device is restarted. The software's botnet also supports iOS versions 15.4.1 and below, as well as Android version 13 and below.**
 
 
